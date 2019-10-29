@@ -4,4 +4,4 @@ mkdir devEnv
 cd devEnv
 cmake ..
 
-
+make
